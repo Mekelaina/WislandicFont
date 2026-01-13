@@ -8,7 +8,7 @@
    height="7864.3198"
    viewBox="0 0 1966.08 7864.3198"
    sodipodi:docname="PAD2.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.28"
-     inkscape:cx="344.14063"
-     inkscape:cy="2708.2031"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer25"
+     inkscape:zoom="0.64"
+     inkscape:cx="1019.5312"
+     inkscape:cy="904.6875"
+     inkscape:window-width="1178"
+     inkscape:window-height="780"
+     inkscape:window-x="2320"
+     inkscape:window-y="152"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer14"
      showgrid="false" />
   <g
      inkscape:groupmode="layer"
@@ -192,7 +192,8 @@
     <path
        style="fill:#000000"
        d="m 418.75,1069.5313 c 0,0 0,47.6562 15.625,99.2187 15.625,51.5625 43.75,46.0938 43.75,46.0938 0,0 22.65625,-6.25 30.46875,-20.3125 0,0 2.34375,66.4062 -8.59375,102.3437 -10.9375,35.9375 -0.78125,67.9688 -68.75,71.0938 l -14.71991,-7.755 c 0,0 15.46796,17.5396 41.43204,21.6828 25.96407,4.1432 53.03301,-24.583 59.1097,-69.8821 6.0767,-45.299 16.02039,-140.8689 8.28641,-154.6796 0,0 3.86699,-28.7262 -12.1534,-67.1199 0,0 -16.57281,-9.6674 -12.70582,18.2301 3.86699,27.8976 6.90534,48.3374 6.90534,48.3374 0,0 -14.63932,41.432 -29.83107,40.8796 -15.19175,-0.5524 -51.07911,-55.7306 -58.82329,-128.1308 z"
-       id="path59" />
+       id="path59"
+       sodipodi:nodetypes="csccsccssccscsc" />
   </g>
   <g
      inkscape:groupmode="layer"
