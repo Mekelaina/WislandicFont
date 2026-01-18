@@ -135,13 +135,26 @@
        orientation="0,-1"
        id="guide49"
        inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page2"
+       margin="0"
+       bleed="0" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <font
        horiz-adv-x="1000"
        id="font8"
-       inkscape:label="font 1">
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          units-per-em="1000"
          ascent="750"

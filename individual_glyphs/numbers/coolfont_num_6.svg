@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="individual_glyphs/coolfont_punc_apostrophe.svg"
+   inkscape:export-filename="individual_glyphs/numbers/coolfont_num_5.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -135,13 +135,26 @@
        orientation="0,-1"
        id="guide49"
        inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page2"
+       margin="0"
+       bleed="0" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <font
        horiz-adv-x="1000"
        id="font8"
-       inkscape:label="font 1">
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          units-per-em="1000"
          ascent="750"
@@ -881,7 +894,7 @@
        id="layer51"
        inkscape:label="0"
        inkscape:highlight-color="#e66af8"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;fill:#000000;stroke-width:6.21;stroke-linecap:round;stroke-linejoin:bevel"
          d="m 548.31344,272.35453 c -143.44509,13.57409 -317.88468,318.70185 -152.145,451.7775 70.8975,56.925 150.5925,-10.8675 150.5925,-10.8675 0,0 49.68,-36.7425 47.0925,-106.0875 -2.80872,-75.27374 -100.6902,-120.6269 -156.8025,-108.1575 -32.6025,7.245 -35.60416,54.61193 -35.60416,54.61193 82.7123,-49.04257 137.4739,24.73527 140.78604,29.35141 63.84524,88.9812 -139.75021,228.83728 -177.63188,6.59813 -28.68241,-168.27015 176.66181,-312.33648 183.7125,-317.2275 z"
@@ -953,7 +966,7 @@
        id="layer65"
        inkscape:label="6"
        inkscape:highlight-color="#e66af8"
-       style="display:none">
+       style="display:inline">
       <path
          d="m 385.80011,283.26191 c 0,0 15.31978,-9.57482 42.30334,-10.09708 26.98364,-0.52232 185.22982,0.1738 185.22982,0.1738 44.83406,7.99183 -25.61456,89.68198 -51.356,142.55252 31.47946,4.2377 44.22551,31.09012 44.33379,58.54508 0.32814,83.164 -109.75069,81.92777 -129.63697,191.9676 -2.7818,39.20233 90.57339,46.50217 98.84762,41.16982 -31.75502,30.34142 -100.11001,54.75683 -120.817,19.32382 -24.4325,-41.80795 -2.4386,-99.99855 30.18433,-149.55543 25.62409,-38.92507 61.07044,-80.09082 80.48487,-107.00113 -32.5102,-19.1738 -61.94263,-3.05606 -79.64726,22.14902 -20.89183,16.16624 -43.3076,-4.22215 -32.75876,-28.83568 51.48432,-63.95854 52.76878,-4.97262 130.04974,-152.82001 0,0 -77.96716,-0.58883 -116.09254,1.15211 -38.12522,1.74084 -78.6878,-21.41292 -81.12498,-28.72456 z"
          style="display:inline;fill:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:bevel"

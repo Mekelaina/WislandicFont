@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="individual_glyphs/coolfont_punc_apostrophe.svg"
+   inkscape:export-filename="individual_glyphs/numbers/coolfont_num_0.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -135,13 +135,26 @@
        orientation="0,-1"
        id="guide49"
        inkscape:locked="false" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       id="page2"
+       margin="0"
+       bleed="0" />
   </sodipodi:namedview>
   <defs
      id="defs4">
     <font
        horiz-adv-x="1000"
        id="font8"
-       inkscape:label="font 1">
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
       <font-face
          units-per-em="1000"
          ascent="750"
@@ -881,7 +894,7 @@
        id="layer51"
        inkscape:label="0"
        inkscape:highlight-color="#e66af8"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;fill:#000000;stroke-width:6.21;stroke-linecap:round;stroke-linejoin:bevel"
          d="m 548.31344,272.35453 c -143.44509,13.57409 -317.88468,318.70185 -152.145,451.7775 70.8975,56.925 150.5925,-10.8675 150.5925,-10.8675 0,0 49.68,-36.7425 47.0925,-106.0875 -2.80872,-75.27374 -100.6902,-120.6269 -156.8025,-108.1575 -32.6025,7.245 -35.60416,54.61193 -35.60416,54.61193 82.7123,-49.04257 137.4739,24.73527 140.78604,29.35141 63.84524,88.9812 -139.75021,228.83728 -177.63188,6.59813 -28.68241,-168.27015 176.66181,-312.33648 183.7125,-317.2275 z"
@@ -893,7 +906,7 @@
        id="layer52"
        inkscape:label="1"
        inkscape:highlight-color="#e66af8"
-       style="display:none">
+       style="display:inline">
       <path
          style="display:inline;fill:#000000;stroke-width:5.6133;stroke-linecap:round;stroke-linejoin:bevel"
          d="m 343.20173,292.01547 c 92.53039,31.63262 207.12531,17.53519 296.10157,-17.77545 9.3555,-3.7422 35.08313,21.98543 10.75883,39.2931 C 530.69854,370.14736 442.76239,490.757 431.6112,625.53905 c -1.8711,62.68185 8.88773,85.60282 13.56548,94.49055 13.50069,25.6513 39.26624,17.70009 56.95577,11.18095 -67.17799,44.19128 -144.67325,-0.12966 -92.0389,-195.4843 24.3243,-90.28058 121.15373,-192.25553 121.15373,-192.25553 -60.87937,-1.50527 -143.84093,-2.10742 -188.04555,-51.45525 z"
