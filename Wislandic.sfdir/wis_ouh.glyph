@@ -1,7 +1,8 @@
 StartChar: wis_ouh
 Encoding: 263 -1 61
 Width: 481
-Flags: HW
+Flags: W
+HStem: 160.288 9.29297<225.285 260.062> 372.96 16.7852<330.829 337.731> 519 51<125.91 265.887>
 LayerCount: 2
 Fore
 SplineSet
@@ -37,4 +38,5 @@ SplineSet
  271.892578125 169.889648438 304.759765625 205.248046875 296.16015625 271.73046875 c 1
  282.443359375 280.059570312 270.083984375 284.288085938 258.70703125 284.677734375 c 0
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" o e h
 EndChar

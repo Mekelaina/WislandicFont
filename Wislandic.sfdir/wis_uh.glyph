@@ -1,7 +1,9 @@
 StartChar: wis_uh
 Encoding: 264 -1 62
 Width: 481
-Flags: HW
+Flags: W
+HStem: 519 51<125.91 265.887>
+VStem: 393.273 48.5527<313.754 384.72>
 LayerCount: 2
 Fore
 SplineSet
@@ -26,4 +28,5 @@ SplineSet
  183.790039062 541.565429688 142.27734375 526.955078125 98.6259765625 519 c 4
  90.5966796875 520.146484375 105.215820312 571.71484375 155.625976562 570 c 4
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" u h
 EndChar

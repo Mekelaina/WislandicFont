@@ -42,4 +42,5 @@ SplineSet
  342.530273438 340.231445312 353.784179688 426.287109375 370.383789062 498.0546875 c 1
 EndSplineSet
 Kerns2: 36 -100 "'kern' Horizontal Kerning in Latin lookup 0-1"
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" quotesingle I
 EndChar
