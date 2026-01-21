@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1768761821
-ModificationTime: 1768772608
+ModificationTime: 1769024891
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,9 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [80,8,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -43,5 +46,21 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 32 16 5
+WidthSeparation: 100
+WinInfo: 80 16 4
+BeginPrivate: 0
+EndPrivate
+Grid
+-12 -60 m 7
+ -8 -60 1081 -60 1085 -60 c 1028
+NamedP: "Number Base"
+-17 570 m 3
+ -13 570 1076 570 1080 570 c 1024
+-17 700 m 3
+ -13 700 1076 700 1080 700 c 1024
+-12 200 m 3
+ -8 200 1081 200 1085 200 c 1024
+NamedP: "Number Base"
+EndSplineSet
+TeXData: 1 0 0 209715 104857 69905 601516 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 EndSplineFont
