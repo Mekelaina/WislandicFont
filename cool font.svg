@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   inkscape:export-filename="individual_glyphs\unused\coolfont_unused_atsign.svg"
+   inkscape:export-filename="individual_glyphs\unused\individual_glyphs\unused\coolfont_unused_dollarsign.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xml:space="preserve"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="468.81179"
-     inkscape:cy="467.04403"
+     inkscape:cx="469.51889"
+     inkscape:cy="467.04402"
      inkscape:document-units="px"
      inkscape:current-layer="layer101"
      showgrid="true"
@@ -185,7 +185,8 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><g
      inkscape:groupmode="layer"
      id="layer74"
-     inkscape:label="consonats"><g
+     inkscape:label="consonats"
+     style="display:none"><g
        inkscape:groupmode="layer"
        id="layer14"
        inkscape:label="q"
@@ -1122,9 +1123,10 @@
          sodipodi:nodetypes="csccc" /></g></g><g
      inkscape:groupmode="layer"
      id="layer101"
-     inkscape:label="unused"><path
+     inkscape:label="unused"
+     style="display:inline"><path
        id="path23-7"
-       style="display:inline;fill:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:bevel"
+       style="display:none;fill:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:bevel"
        d="m 418.61403,391.57058 c -34.86685,33.11475 -39.41857,66.40415 -43.79882,86.7285 -15.80959,103.27499 58.1403,171.99056 150.37933,154.89731 40.10823,-5.50513 63.18503,-23.31869 94.4385,-44.1504 -41.71272,18.32209 -87.39066,29.34166 -132.98342,29.60937 -67.27253,-1.48833 -122.07476,-76.04789 -87.32759,-169.68243 12.50181,-33.68909 53.09045,-80.43409 116.08888,-79.16992 18.54503,0.37214 87.40658,13.43478 98.49602,112.24607 4.83232,43.0579 -24.22125,62.73579 -39.02825,66.65528 -48.66746,12.88251 -50.88323,-37.16795 -53.39845,-37.16795 0,0 4.58403,-3.71473 8.3008,-13.75 8.21039,-22.16803 -14.64074,-77.68281 -31.9629,-78.05178 0,0 -5.85477,1.29868 -3.59375,3.4668 2.26115,2.1681 2.1875,7.07799 2.1875,7.07799 -11.3987,-11.39894 -52.62807,1.72286 -53.41928,55.87185 -0.48444,33.15467 18.21179,65.24962 66.55893,37.17711 33.6821,113.71132 189.78454,-5.56333 83.0469,-132.63182 -42.95313,-51.13468 -121.6866,-48.79576 -173.9844,0.87402 z m 78.2129,42.53418 c 4.87158,25.36307 7.10305,51.4539 9.79003,77.30957 0,0 -7.80655,8.1776 -27.13378,9.9121 -39.75536,3.56781 -34.87755,-97.80635 17.34375,-87.22167 z m 11.77245,4.70702 c 10.16584,15.87346 14.39204,35.99243 10.77638,54.38965 -3.39912,-23.38163 -7.72322,-49.36128 -10.77638,-54.38965 z"
        inkscape:label="at_sign"
        sodipodi:nodetypes="ssscssssscscscscssccscccc" /><path
@@ -1204,7 +1206,7 @@
        inkscape:label="less_than"
        sodipodi:nodetypes="cscccssc" /><path
        id="path16-6"
-       style="display:none;fill:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:bevel"
+       style="display:inline;fill:#000000;stroke-width:25;stroke-linecap:round;stroke-linejoin:bevel"
        d="m 478.68787,312.85378 c 0,0 -0.74275,17.22248 -0.37108,19.82423 0,0 -53.02705,23.0436 -57.3633,53.1494 0.4993,34.89597 62.61978,25.71168 66.2793,30.2051 v 0.005 l 0.005,0.005 v 0.005 0.005 0.005 c 8.28757,44.81536 11.46857,86.45949 10.36623,131.5088 -31.50862,10.84833 -52.66348,7.88153 -70.78125,17.6953 -4.20505,2.27775 -7.71003,4.37982 -4.73145,7.3584 19.99514,19.02287 46.5817,15.812 71.3086,11.73827 0,0 -7.1818,49.0605 -5.4297,63.42775 1.7521,14.36725 9.6338,12.08985 9.6338,12.08985 0,0 7.01255,-3.1535 8.76465,-14.8926 1.7521,-11.73907 8.4082,-67.10937 8.4082,-67.10937 28.4612,-12.18991 62.45994,-45.79881 64.12597,-86.20115 1.36945,-33.2087 -20.5416,-84.63595 -73.06152,-92.33888 0,0 -7.36093,-56.58947 -9.63868,-58.8672 0,0 34.10735,-6.6491 45.1758,-4.81445 -11.87895,-17.63509 -48.01502,-7.38789 -49.0625,-7.06055 0,0 -2.72542,-11.02937 -13.62795,-15.7373 z m 1.61132,33.57423 5.07813,50.7959 c -53.5215,2.9734 -49.80468,-10.52735 -49.80468,-10.52735 8.053,-24.90238 44.72655,-40.26855 44.72655,-40.26855 z m 27.99805,74.0918 c 29.73418,7.18577 50.30253,39.64335 47.3291,70.86425 -2.97342,31.22087 -36.17675,46.08887 -36.17675,46.08887 0.47217,-39.30681 -5.66726,-78.11234 -11.15235,-116.95312 z"
        inkscape:label="dollar_sign"
        sodipodi:nodetypes="ccccccccccsscscscscccccccccccscc" /><path
