@@ -1,7 +1,7 @@
 StartChar: greater
 Encoding: 62 62 105
 Width: 417
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,4 +19,5 @@ SplineSet
  86 570 84 574 84 577 c 4
  84 584 88 585 93 585 c 4
 EndSplineSet
+Validated: 1
 EndChar
