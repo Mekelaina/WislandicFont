@@ -10,4 +10,10 @@ background: -moz-linear-gradient(45deg, hsla(30, 100%, 86%, 1) 0%, hsla(41, 100%
 background: -webkit-linear-gradient(45deg, hsla(30, 100%, 86%, 1) 0%, hsla(41, 100%, 80%, 1) 100%);
 
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ffdbb8", endColorstr="#ffdf99", GradientType=1 );
+
+color: #1A0C00;
+}
+
+p{
+    
 }
