@@ -58,6 +58,7 @@ SplineSet
  276 285 286 298 286 298 c 1
  350 349 362 437 379 510 c 1
 EndSplineSet
+Validated: 5
 Kerns2: 36 -102 "'kern' Horizontal Kerning in Latin lookup 0-1"
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" quotesingle I

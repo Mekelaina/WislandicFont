@@ -1,7 +1,7 @@
 StartChar: bar
 Encoding: 124 124 118
 Width: 74
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -15,4 +15,5 @@ SplineSet
  24 254 24 276 24 295 c 0
  24 358 27 421 27 480 c 0
 EndSplineSet
+Validated: 1
 EndChar

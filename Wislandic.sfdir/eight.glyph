@@ -37,5 +37,6 @@ SplineSet
  140 443 91 396 251 567 c 0
  264 578 281 584 297 584 c 1
 EndSplineSet
+Validated: 1
 Kerns2: 36 -102 "'kern' Horizontal Kerning in Latin lookup 0-1"
 EndChar

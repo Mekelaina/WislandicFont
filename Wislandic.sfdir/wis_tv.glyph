@@ -41,6 +41,7 @@ SplineSet
  97 563 107 565 120 571 c 0
  186 600 302 717 302 717 c 1xd0
 EndSplineSet
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t v
 EndChar
