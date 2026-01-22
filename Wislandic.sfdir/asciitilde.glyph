@@ -1,0 +1,17 @@
+StartChar: asciitilde
+Encoding: 126 126 119
+Width: 421
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+266 433 m 0
+ 153 433 188 540 122 540 c 0
+ 84 540 33 505 33 479 c 1
+ 32 483 32 486 32 490 c 0
+ 32 526 97 553 120 553 c 0
+ 181 553 189 450 260 450 c 0
+ 300 450 350 481 390 492 c 1
+ 357 465 308 433 266 433 c 0
+EndSplineSet
+EndChar

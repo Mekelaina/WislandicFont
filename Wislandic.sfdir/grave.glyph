@@ -1,0 +1,15 @@
+StartChar: grave
+Encoding: 96 96 115
+Width: 137
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+12 717 m 1
+ 12 717 39 708 55 693 c 0
+ 72 677 105 641 113 626 c 0
+ 120 613 121 598 121 595 c 0
+ 121 594 121 594 121 594 c 1
+ 77 623 40 672 12 717 c 1
+EndSplineSet
+EndChar
